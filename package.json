@@ -1,0 +1,25 @@
+{
+  "name": "testingapi",
+  "version": "1.0.0",
+  "description": "this is simple api testing project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tauhidul0821/testingApi.git"
+  },
+  "author": "Md. Tauhidul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tauhidul0821/testingApi/issues"
+  },
+  "homepage": "https://github.com/tauhidul0821/testingApi#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19",
+    "passport": "^0.4.0"
+  }
+}
